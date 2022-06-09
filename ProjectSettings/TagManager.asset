@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LargeGold
+  - MiddleGold
+  - SmallGold
+  - DeliverItem
+  - LargeStone
+  - MiddleStone
+  - Boundary
+  - Boundary2
+  - Point
+  - Explode
+  - Owned
+  - Dynamite
+  - DynamitePick
+  - Timer
+  - SuperMan
+  - ThaiRope
+  - BoosterManager
+  - PIG
+  - Ready
+  - FishNet
+  - DNK
+  - MagneticWall
+  - DynOn
+  - Pipe
+  - PipeOut
+  - TopFan
+  - Socket
+  - Wall1
+  - Wall2
+  - ItemAtt
+  - Diamond
+  - TelePoint
+  - PIGDIA
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,1 @@
+{"curWorld":0,"curLevel":0,"curGold":0}

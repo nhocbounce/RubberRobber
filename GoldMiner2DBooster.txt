@@ -1,0 +1,39 @@
+Theme:
+ngồi trên mái nhà, thả móc xuống các khu vực phòng
+mèo sẽ ngậm kim cương
+
+Booster: ( vừa có thể ingame, vừa có thể trong shop)
++ Pháo: Phá huỷ đồ đang kéo vvvvvvvvvvvvvvvvvv
++ Siêu sức mạnh: Kéo mọi vật vs tốc độ siêu khủng vvvvvvvvvvvvvvv
++ Con đỗ nghèo khỉ: Khi hết giờ, được quyền kéo thêm 1 vật bất kì vvvvvvvvvvvv
++ Timer: Thêm thời gian  vvvvvvvvvvvvvvvvvvv
++ Tường từ tính: Mỗi lẫn nảy tưởng sẽ gia tăng khả năng bắt dính vật  vvvvvvvvvvvvvvvvv
++ Dây cáp Thái: Tốc độ di chuyển của móc nhanh hơn  vvvvvvvvvvvvvvvvvvv
+
+	In game:
+	+ Lưới đánh cá: Lần quăng tiếp theo sẽ hút tất cả các vật chạm vào khi kéo lên vvvvvvvvvvv
+	+Radar định hướng: Tốc độ quay của móc chậm đi hoặc có đường định hướng
+	+Ảo ma Canada: Lần quăng tới móc sẽ ko bắt đá
+	+ Bàn tay vàng: Lần quăng tới có thể tap để đổi hướng 1 lần  
+	+ Bàn tay kim cương: Lần quăng tới có thể chỉ định hướng của móc
+	Shop:
+	+ Đánh bóng đá quý: kim cương sẽ có giá trị hơn trong cửa tới vvvvvvvvvvvv
+	+ Bộ sưu tập đá : Đá sẽ có giá trị hơn trong cửa tới vvvvvvvvvvvvv
+	+ Mèo Anh, Mỹ,...: mèo sẽ có giá trị hơn trong cửa tới vvvvvvvv
+	+ Hoá thạch: Xương sẽ có giá trị hơn trong cửa tới vvvvvvvvvv
+
+
+
+Object mới:
++ Ống thông gió: có 2 đầu ống, vào đầu này thì sẽ ra đầu kia:vvvvvvvvvvvv
++ Quạt trần: Vật phẩm không thể bị kéo. buộc ng chơi phải luồn lách quavvvvvvvvvvvvv
++ Tường nảy: Móc đâm vào sẽ nảy như boundary vvvvvvvvvvvvvvv
+
+Trap:
++ Mây giông: xuất hiện ! màu đen báo nguy hiểm, rồi Mây giông lướt qua màn hình. ng chơi không được để móc xoay(trên mái) trong tgian đó, 
+nếu ko sẽ bị sét đánh. vvvvvv
++ Chủ nhà: xuất hiện ! màu đỏ báo nguy hiểm, rồi Chủ nhà lướt qua màn hình. ng chơi không được để móc di chuyển(xuất hiện trong phòng)
+trong tgian đó, nếu ko sẽ bị chủ nhà phát hiện.vvvvvvvvvvvvvvvvv
++ Ổ điện: va vào sẽ bị giật điện vvvvvvvvvvvvvv
+
+
